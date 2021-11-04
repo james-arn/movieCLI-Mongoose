@@ -1,0 +1,25 @@
+{
+  "name": "moviecli_mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james-arn/movieCLI-Mongoose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/james-arn/movieCLI-Mongoose/issues"
+  },
+  "homepage": "https://github.com/james-arn/movieCLI-Mongoose#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.0.12",
+    "yargs": "^17.2.1"
+  }
+}
